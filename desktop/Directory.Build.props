@@ -4,10 +4,10 @@
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Authors>ESousa97</Authors>
+    <Authors>enoquesousa</Authors>
     <Product>Beam</Product>
     <Company>Beam</Company>
-    <Copyright>Copyright © 2026 ESousa97</Copyright>
+    <Copyright>Copyright © 2026 enoquesousa</Copyright>
     <NeutralLanguage>pt-BR</NeutralLanguage>
     <AnalysisLevel>latest</AnalysisLevel>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>

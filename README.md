@@ -2,8 +2,8 @@
 
 Local clipboard sync between Windows and Android—text and images, end to end, without leaving your network.
 
-[![Desktop CI](https://github.com/ESousa97/ia-mobile-to-desktop-write/actions/workflows/desktop-ci.yml/badge.svg)](https://github.com/ESousa97/ia-mobile-to-desktop-write/actions/workflows/desktop-ci.yml)
-[![Android CI](https://github.com/ESousa97/ia-mobile-to-desktop-write/actions/workflows/android-ci.yml/badge.svg)](https://github.com/ESousa97/ia-mobile-to-desktop-write/actions/workflows/android-ci.yml)
+[![Desktop CI](https://github.com/enoquesousa/ia-mobile-to-desktop-write/actions/workflows/desktop-ci.yml/badge.svg)](https://github.com/enoquesousa/ia-mobile-to-desktop-write/actions/workflows/desktop-ci.yml)
+[![Android CI](https://github.com/enoquesousa/ia-mobile-to-desktop-write/actions/workflows/android-ci.yml/badge.svg)](https://github.com/enoquesousa/ia-mobile-to-desktop-write/actions/workflows/android-ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -201,4 +201,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Commit messages follow [Conventional Com
 
 ## License
 
-[MIT](LICENSE) © 2026 ESousa97
+[MIT](LICENSE) © 2026 enoquesousa

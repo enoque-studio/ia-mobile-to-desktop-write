@@ -6,13 +6,13 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="ESousa97.Beam"
+    Name="enoquesousa.Beam"
     Publisher="CN=Beam Dev"
     Version="0.1.0.0" />
 
   <Properties>
     <DisplayName>Beam</DisplayName>
-    <PublisherDisplayName>ESousa97</PublisherDisplayName>
+    <PublisherDisplayName>enoquesousa</PublisherDisplayName>
     <Description>Sincronização de área de transferência entre Windows e Android na LAN.</Description>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
