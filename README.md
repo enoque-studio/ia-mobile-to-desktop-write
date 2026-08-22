@@ -201,4 +201,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Commit messages follow [Conventional Com
 
 ## License
 
-[MIT](LICENSE) © 2026 ESousa97
+[MIT](LICENSE) © 2026 enoquesousa
